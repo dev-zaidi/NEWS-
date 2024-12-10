@@ -1,0 +1,22 @@
+#card{
+    border-radius: 30px;
+    box-shadow: -2px -2px 5px gray;
+}
+#userInput{
+    border-radius: 10px;
+    height: 6vh;
+    margin: 10px;
+    background: #ffffff;
+}
+#search{
+    margin: 10px;
+    padding: 4px;
+    border: none;
+    border-radius: 10px;
+    height: 6vh;
+}
+#header{
+    background-color: black;
+    color: white;
+}
+
